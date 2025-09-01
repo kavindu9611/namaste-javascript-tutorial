@@ -37,11 +37,11 @@ function findMax(arr) {
 
 console.log(findMax(arr));
 
-const maxOutput = arr.reduce(function(max,curr){
-if(curr > max){
-  max = curr
-}
-return max
-},0)
+const maxOutput = arr.reduce(function (max, curr) {
+  if (curr > max) {
+    max = curr;
+  }
+  return max;
+}, 0);
 
 console.log(maxOutput);
