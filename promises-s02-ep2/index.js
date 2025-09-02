@@ -2,11 +2,11 @@
 
  //Before promises
 
- const cart = ["shoes", "pants", "kurta"]
+ const cart = ["shoes", "pants", "kurta"];
 
- createOrder(cart, function(){
-    proceedToPayment(ordrId)
- })
+ createOrder(cart, function () {
+   proceedToPayment(ordrId);
+ });
 
  //createOrder return orderId and it s responsible for calling proceedToPayment
  //this is a issue (Inverson of control)
