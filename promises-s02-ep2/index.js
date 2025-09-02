@@ -9,7 +9,7 @@
  });
 
  //createOrder return orderId and it s responsible for calling proceedToPayment
- //this is a issue (Inverson of control)
+ //this is a issue (Inversion of control)
 
 
  //After Promise
