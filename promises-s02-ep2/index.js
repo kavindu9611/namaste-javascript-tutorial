@@ -4,8 +4,8 @@
 
  const cart = ["shoes", "pants", "kurta"];
 
- createOrder(cart, function () {
-   proceedToPayment(ordrId);
+ createOrder(cart, function (orderId) {
+   proceedToPayment(orderId);
  });
 
  //createOrder return orderId and it s responsible for calling proceedToPayment
