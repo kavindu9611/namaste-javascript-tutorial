@@ -14,7 +14,7 @@ user.then(function (data) {
 //3-Rejected
 
 //Promise objects are immutable - Whenever a promise object has data(fullfilled).We can
-// pass that here and thewre in our code.and we dont have to worry about someone can
+// pass that here and there in our code.and we dont have to worry about someone can
 // mutate that data
 
 //How to handle this
