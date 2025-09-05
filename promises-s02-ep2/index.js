@@ -1,4 +1,4 @@
-//Pomises are used to handle async operations in javascript
+//Promises are used to handle async operations in javascript
 
  //Before promises
 
