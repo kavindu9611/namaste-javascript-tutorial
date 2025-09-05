@@ -1,4 +1,4 @@
- //Whateverthe errors are there .then methods are called if it is
+ //Whatever the errors are there .then methods are called if it is
  //after the .catch
 
 
